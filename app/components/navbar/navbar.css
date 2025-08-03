@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #2C3E50;
+  height: 105px;
+  transition: all 0.3s ease;
+}
+
+.nav-link,.navbar-brand{
+    color: white;
+    font-weight: 700;
+    padding: 20px 0px 20px 0px;
+}
+
+.navbar.shrink {
+  height: 75px;
+}
+
+
+.nav-link.active{
+    color: white;
+    background-color: #1ABC9C;
+    border-radius: 10%;
+}
+

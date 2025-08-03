@@ -1,0 +1,12 @@
+.hero-bg{
+    background-color: #1ABC9C;
+    color: white;
+    height: 87vh;
+}
+
+
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: white ;
+}

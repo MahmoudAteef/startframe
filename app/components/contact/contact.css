@@ -1,0 +1,32 @@
+.hero-bg{
+    color: #2C3E50;
+    height: 90vh;
+}
+
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+
+
+label{
+  transition: 0.3s ease;
+  top: 40px;
+  left: 0;
+  color: #1abc9c;
+  pointer-events: none;
+}
+
+.__top {
+  top: 0px !important;
+  font-size: 13px;
+}
+
+
+
+input:focus {
+  box-shadow: none;     
+}
+
+

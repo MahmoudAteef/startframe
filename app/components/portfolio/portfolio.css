@@ -1,0 +1,22 @@
+.hero-bg{
+    color: #2C3E50;
+    height: 90vh;
+}
+
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+
+
+.layer__[_ngcontent-itv-c19]:hover {
+    opacity: 1;
+}
+
+.layer__[_ngcontent-itv-c19] {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
